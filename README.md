@@ -1,5 +1,5 @@
-#Projeto inicial de Desenvolvimento de Sistemas para Web
+# Projeto inicial de Desenvolvimento de Sistemas para Web
 
-##E-commerce Adidas
+## E-commerce Adidas
 
-###Victória Venturini
+### Victória Venturini
